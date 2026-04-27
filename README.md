@@ -1,4 +1,4 @@
-# LECapsNet
+# LE-CapsNet
 This is the code for Light and Enhanced CapsNet (LE-CapsNet) published in ICMLA-2021.
 
 The base code for this project is the following: <br />
